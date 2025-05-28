@@ -1,9 +1,15 @@
 # Aspiring Data Scientist
-
-#### Technical Skills: Python, R, SQL
+Hello! Welcome to my portfolio site. A little bit about me, I am a final-year Computer Science (Big Data) student passionate about AI &
+Machine Learning. I am analytical and results-oriented, with hands-on experience in data analysis and machine learning through a series
+of diverse projects I developed and worked with as well as from my internship at a FinTech company. 
 
 ## Education
 - BSc Comp Sci (Big Data) | SIM-UOW | _Jan 2022 - Present_
+
+### Technical Skills:
+Python (Pandas, NumPy, Scikit-learn, TensorFlow, BeautifulSoup), R, SQL, Machine Learning,
+Time Series Modelling (skforecast), Gen AI (LLMs), RAG Systems, Data Analysis, 
+Data Visualization (Matplotlib, Seaborn, R Shiny), Web Scraping, Linux, GitHub
 
 ## Work Experience
 **Data Scientist @ MoneyMatch Sdn Bhd  (Feb 2024 - Aug 2024)**
@@ -14,9 +20,19 @@
 - Researched and documented Zendesk Support, providing recommendations to the team lead on best practices and API integration with Trello to improve communications team workflow and efficacy
 
 ## Projects
-**AI Chat Development** | [Repo](https://github.com/lester-liam/AI-Chatbot-Development)
-- Learning Repository documenting my journey into developing an AI Customer Support Chatbot
-- Technologies used: llama3.2:1b, streamlit 
+**Customer Service Chatbot Integrated with Zendesk** | [Repo](https://github.com/SIM-FYP2025Q2/SIM-Travels)
+- Travel Customer Service Agent that effectively addresses the diverse needs of travelers by being able to act as multiple roles of customer support
+  (Trip Planner, Travel Agent, Customer Service, Booking Specialist)
+- **Technologies**: Agent Development Kit (ADK), Pinecone Database, Azure MySQL Database, Zendesk Sunshine
+
+**Freelance C2C Cleaner Managementment System** | [Repo](https://github.com/lester-liam/csit314-sim2025q2-tehsiewdai)
+- Developed a system for C2C Freelance Home Cleaners Service that acts as a platform to connect freelance home cleaners with homeowners.
+- The service will support various key features and functionalities such as management of different users, categories, cleaner services, shortlists and reporting.
+
+**Resale HDB Flat Prices Prediction** | [Repo](https://github.com/lester-liam/csci323-housing-price-prediction)
+- Spearheaded a 6-person team to develop and evaluate predictive machine learning models (XGBoost,
+MLP Regressor, RandomForest) for Singapore HDB flat prices, utilizing skforecast for time series
+analysis and achieving RMSE 57300 and MAE 42400 with the best-performing XGBoost model.
 
 **British Airways Data Science Job Simulation on Forage** | [Repo](https://github.com/lester-liam/Forage-Virtual-Experience-British-Airways)
 - Completed a simulation focusing on how data science is a critical component of British Airways success
@@ -24,10 +40,13 @@
 - Built a predictive model to understand factors that influence buying behaviour
 
 **CDC Diabetes Health Indicators Group Project** | [Repo](https://github.com/lester-liam/csci218-sp125-group-assignment)
-- In a team of 6, train and evaluated various machine learning algorithms (MLP Classifier, RandomForest, XGBoost) to predict if someone has diabetes risk based on behavioral risk factors, achieved a recall of 28% with a precision of 55% after sampling dataset with TomekLinks.
+- Collaborated in a 6-person team to develop and evaluate classification models (MLP Classifier, RandomForest, XGBoost)
+  predicting diabetes risk from behavioral factors, employed TomekLinks for dataset balancing and achieved a 28% recall
+  and 55% precision with best-performing XGBoost model.
 
 **Currency Rates API Scraping** | [Repo](https://github.com/lester-liam/currency-rates-api-scraping)
-- A webscraper that scrapes Malaysia Remittance Companies (Wise, Instaremit, MoneyMatch, SunwayMoney) via APIs and stores them in a comma-separated-value (.csv) file.
+- A webscraper that scrapes Malaysia Remittance Companies (Wise, Instaremit, MoneyMatch, SunwayMoney) via APIs
+  and stores them in a comma-separated-value (.csv) file.
 
 **Weather Forecast Email** | [Repo](https://github.com/lester-liam/weather-forecast-email)
 - Utilizes the WeatherAPI to retrieve weather information using a local latitude & longtitude csv file and sends via email.
